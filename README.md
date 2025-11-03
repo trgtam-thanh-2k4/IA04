@@ -295,6 +295,3 @@ MIT
 ## Author
 
 Created for the Web Application Development course assignment.
-
-test@example.com
-password123
